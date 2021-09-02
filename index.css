@@ -1,0 +1,16 @@
+#show{
+    margin: 20px;
+}
+h1{
+    text-align: center;
+    padding-top: 5px;
+}
+#button{
+    margin-left: 50%;
+}
+#search{
+    width: 320px;
+}
+body{
+    background-color: grey;
+}
